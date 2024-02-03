@@ -1,0 +1,26 @@
+###routine
+exe https://my.openbb.co/u/FLABDUL1997/routine/jpm-markets
+
+#move to stock menu
+stocks
+
+#markets menu
+th
+
+#check open markets
+open 
+
+#check closed markets
+closed
+
+#check all markets
+all
+
+#check London Exchange
+exchange LSE
+
+#check holidays for London Exchange
+holidays LSE
+
+#check market open status for JPM symbol
+symbol JPM
