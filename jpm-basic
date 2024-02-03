@@ -1,0 +1,26 @@
+###jpm basic data routine
+exe https://my.openbb.co/u/FLABDUL1997/routine/jpm-basic-data
+
+#move to stock folder
+stocks
+
+#search for JPM ticker
+search JPM
+
+#load ticker
+load JPM
+
+#quote ticker
+quote
+
+#view bid/ask if market is open
+tob
+
+#view candle chart
+candle
+
+#view codes
+codes
+
+#view news
+news
